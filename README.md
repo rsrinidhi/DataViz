@@ -22,7 +22,8 @@
 10. Drag 'Current Month actual' under Measures into the fields ‘Color’ and ‘Size’.
 ![5](https://cloud.githubusercontent.com/assets/8815203/15057922/323fe7e2-12ce-11e6-94f4-40c9cbdd0e12.png)
 
-11. Save the visualisation 
+11. Save the visualisation to Tableau Public.
+<img width="340" alt="screenshot 2016-05-05 14 48 37" src="https://cloud.githubusercontent.com/assets/8815203/15058359/96b55ed0-12d0-11e6-9362-49159a282232.png">
 12. If you want to compare two accounts, click on the ‘Account Number’ dimension in the Column field. Choose ‘Filter’
 ![6](https://cloud.githubusercontent.com/assets/8815203/15057927/38070764-12ce-11e6-9c4a-0c7c8ad4daf6.png)
 
