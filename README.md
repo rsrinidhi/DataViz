@@ -8,6 +8,7 @@
 6. Navigate to Sheet 1 of the csv file.
 <br /><img width="380" alt="screenshot 2016-05-05 16 02 11" src="https://cloud.githubusercontent.com/assets/8815203/15059891/d421ef54-12da-11e6-8a14-054a94657f10.png">
 7. Drag the dimensions ‘Account number’ and ‘Object Code Name’ into column field. Note: Order is very important
+<br /><img width="380" alt="screenshot 2016-05-05 16 02 11" src="https://cloud.githubusercontent.com/assets/8815203/15059891/d421ef54-12da-11e6-8a14-054a94657f10.png">
 8. Drag the dimension ‘Transaction’ into row field. Expand the transaction date by year and month.
 ![2](https://cloud.githubusercontent.com/assets/8815203/15057829/b5fab16c-12cd-11e6-8f74-155dccd658e0.png)
 9. Choose 'Bar' from the Marks drop down menu to choose the type of visualization.
