@@ -13,6 +13,5 @@
 10. In order to color each of the bar, right click on 'current month actuals' under Measures.
 <img src = "https://cloud.githubusercontent.com/assets/8815203/15057914/281c283e-12ce-11e6-8213-d37190d2d243.png">
 11. Click on 'Default Properties' and then 'color'.
-12. Choose 'Full Color Range'.
-<img src = "https://cloud.githubusercontent.com/assets/8815203/15057919/2dbf4ea6-12ce-11e6-986b-6e0016f4efb6.png">
+12. Choose 'Full Color Range'.<img src = "https://cloud.githubusercontent.com/assets/8815203/15057919/2dbf4ea6-12ce-11e6-986b-6e0016f4efb6.png">
 
