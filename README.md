@@ -12,4 +12,4 @@
 ![1](https://cloud.githubusercontent.com/assets/8815203/15057795/8ba82e94-12cd-11e6-8038-039a53372a69.png)
 10. In order to color each of the bar, right click on 'current month actuals' under Measures.
 11. Click on 'Default Properties' and then 'color'.
-<img align = "left" src = "https://cloud.githubusercontent.com/assets/8815203/15057914/281c283e-12ce-11e6-8213-d37190d2d243.png">
+<img align = "center" src = "https://cloud.githubusercontent.com/assets/8815203/15057914/281c283e-12ce-11e6-8213-d37190d2d243.png">
