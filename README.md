@@ -11,91 +11,17 @@
 9. Choose 'Bar' from the Marks drop down menu to choose the type of visualization.
 ![1](https://cloud.githubusercontent.com/assets/8815203/15057795/8ba82e94-12cd-11e6-8038-039a53372a69.png)
 10. In order to color each of the bar, right click on 'current month actuals' under Measures.
- 
-
-
-
-
-
-
-
-
-
-
-
 11. Click on 'Default Properties' and then 'color'.
-![3](https://cloud.githubusercontent.com/assets/8815203/15057914/281c283e-12ce-11e6-8213-d37190d2d243.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src = "https://cloud.githubusercontent.com/assets/8815203/15057914/281c283e-12ce-11e6-8213-d37190d2d243.png" width="48">
 12. Choose 'Full Color Range'.
 ![4](https://cloud.githubusercontent.com/assets/8815203/15057919/2dbf4ea6-12ce-11e6-986b-6e0016f4efb6.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 13. Drag 'Current Month actual' under Measures into the fields ‘Color’ and ‘Size’.
 ![5](https://cloud.githubusercontent.com/assets/8815203/15057922/323fe7e2-12ce-11e6-94f4-40c9cbdd0e12.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 14. Save the visualisation to Tableau Public.
 <img width="340" alt="screenshot 2016-05-05 14 48 37" src="https://cloud.githubusercontent.com/assets/8815203/15058359/96b55ed0-12d0-11e6-9362-49159a282232.png">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 15. If you want to compare two accounts, click on the ‘Account Number’ dimension in the Column field. Choose ‘Filter’
 ![6](https://cloud.githubusercontent.com/assets/8815203/15057927/38070764-12ce-11e6-9c4a-0c7c8ad4daf6.png)
-
-
 16. Click on the account numbers you wish to compare. ![7](https://cloud.githubusercontent.com/assets/8815203/15057930/3e9ffc2a-12ce-11e6-8a5d-aa18dd98503e.png)
-
 17. Drag  ‘Account Number’ from Columns to Rows to compare the account number for each month by object code. 
  ![8](https://cloud.githubusercontent.com/assets/8815203/15057964/69ec0e50-12ce-11e6-9fe8-328932400420.png)
-
 18. For lesser details, the ‘Month’ field from Rows can be removed. 
