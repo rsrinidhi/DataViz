@@ -22,7 +22,7 @@
 15. If you want to compare two accounts, click on the ‘Account Number’ dimension in the Column field. Choose ‘Filter’
 ![6](https://cloud.githubusercontent.com/assets/8815203/15057927/38070764-12ce-11e6-9c4a-0c7c8ad4daf6.png)
 16. Click on the account numbers you wish to compare. 
-<img src ="https://cloud.githubusercontent.com/assets/8815203/15057930/3e9ffc2a-12ce-11e6-8a5d-aa18dd98503e.png" width="200">
+<img src ="https://cloud.githubusercontent.com/assets/8815203/15057930/3e9ffc2a-12ce-11e6-8a5d-aa18dd98503e.png">
 17. Drag  ‘Account Number’ from Columns to Rows to compare the account number for each month by object code. 
-<img src="https://cloud.githubusercontent.com/assets/8815203/15057964/69ec0e50-12ce-11e6-9fe8-328932400420.png" width = "200">
+<img src="https://cloud.githubusercontent.com/assets/8815203/15057964/69ec0e50-12ce-11e6-9fe8-328932400420.png">
 18. For lesser details, the ‘Month’ field from Rows can be removed. 
