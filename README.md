@@ -30,8 +30,7 @@
 17. Save the visualisation to Tableau Public.
 <br /><img width="340" alt="screenshot 2016-05-05 14 48 37" src="https://cloud.githubusercontent.com/assets/8815203/15058359/96b55ed0-12d0-11e6-9362-49159a282232.png">
 
-Visualisations
-< br />
+#Visualisations
 1. A visualisation of the transaction for the entire CS department sorted by object code for the fiscal year 2014-2015 can be viewed here: https://public.tableau.com/profile/srinidhi5986#!/vizhome/TransactionsByDateCode/Sheet1
 2. A visualisation of the transaction for each account number in the CS department sorted by object code for the fiscal year 2014-2015 can be viewed here: https://public.tableau.com/profile/srinidhi5986#!/vizhome/Book1_10796/Sheet1
 3. A visualisation of the transaction that compares two account numbers sorted by object code for the fiscal year 2014-2015 can be viewed here: https://public.tableau.com/profile/srinidhi5986#!/vizhome/CompareAccounts_Year/Sheet1
