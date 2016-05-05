@@ -4,6 +4,7 @@
 3. Download Tableau Public desktop app from https://public.tableau.com/s/download.
 4. Open Tableau Public app.
 5. Open the "Results.csv" file in Tableau app.
+<br /><img width="345" alt="screenshot 2016-05-05 15 57 05" src="https://cloud.githubusercontent.com/assets/8815203/15059790/0f5345a6-12da-11e6-8528-340d6dd50a96.png">
 6. Navigate to Sheet 1 of the csv file.
 7. Drag the dimensions ‘Account number’ and ‘Object Code Name’ into column field. Note: Order is very important
 8. Drag the dimension ‘Transaction’ into row field. Expand the transaction date by year and month.
