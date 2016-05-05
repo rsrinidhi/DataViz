@@ -1,4 +1,4 @@
-# ReadME.md
+# README.md
 1. Run the java program FilterText from terminal using the command `java -cp .:commons-csv-1.1.jar FilterText "path/to/input/file.csv"`. The argument to the program is path to the input transaction file. The program creates a "Results.csv" file in the same location as the input file.
 2. Create a profile in Tableau Public, https://public.tableau.com/auth/signup, by filling in the necessary credentials.
 3. Download Tableau Public desktop app from https://public.tableau.com/s/download.
