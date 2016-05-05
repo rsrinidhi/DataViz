@@ -18,7 +18,7 @@
 <br /><img src="https://cloud.githubusercontent.com/assets/8815203/15057922/323fe7e2-12ce-11e6-94f4-40c9cbdd0e12.png" width="200">
 12. Drag the dimensions ‘Account number’ and ‘Object Code Name’ into column field. Note: Order is very important
 <br /><img width="199" alt="screenshot 2016-05-05 16 04 18" src="https://cloud.githubusercontent.com/assets/8815203/15059971/7d5eb386-12db-11e6-98b3-529d52af0be5.png">
-13. Drag the dimension ‘Transaction’ into row field. Expand the transaction date by year and month.This would show the visualization of the transaction for each account number for correspsonding month.
+13. Drag the dimension ‘Transaction’ into row field. Expand the transaction date by year and month.This would show the visualization of the transaction for each account number for corresponding month.
 ![2](https://cloud.githubusercontent.com/assets/8815203/15057829/b5fab16c-12cd-11e6-8f74-155dccd658e0.png)
 14. If you want to compare two accounts, click on the ‘Account Number’ dimension in the Column field. Choose ‘Filter’
 ![6](https://cloud.githubusercontent.com/assets/8815203/15057927/38070764-12ce-11e6-9c4a-0c7c8ad4daf6.png)
@@ -26,5 +26,11 @@
 <img src ="https://cloud.githubusercontent.com/assets/8815203/15057930/3e9ffc2a-12ce-11e6-8a5d-aa18dd98503e.png">
 16. Drag  ‘Account Number’ from Columns to Rows to compare the account number for each month by object code. 
 <img src="https://cloud.githubusercontent.com/assets/8815203/15057964/69ec0e50-12ce-11e6-9fe8-328932400420.png">
+17. If 'Account Number' is removed from Rows, then the visualization would show the transaction per object code for the corresponding month.
 17. Save the visualisation to Tableau Public.
 <br /><img width="340" alt="screenshot 2016-05-05 14 48 37" src="https://cloud.githubusercontent.com/assets/8815203/15058359/96b55ed0-12d0-11e6-9362-49159a282232.png">
+
+Visualisations
+1. A visualisation of the transaction for the entire CS department sorted by object code for the fiscal year 2014-2015 can be viewed here: https://public.tableau.com/profile/srinidhi5986#!/vizhome/TransactionsByDateCode/Sheet1
+2. A visualisation of the transaction for each account number in the CS department sorted by object code for the fiscal year 2014-2015 can be viewed here: https://public.tableau.com/profile/srinidhi5986#!/vizhome/Book1_10796/Sheet1
+3. A visualisation of the transaction that compares two account numbers sorted by object code for the fiscal year 2014-2015 can be viewed here: https://public.tableau.com/profile/srinidhi5986#!/vizhome/CompareAccounts_Year/Sheet1
