@@ -1,17 +1,17 @@
-# About it?
+# About it
 This is a tutorial on how to visualise the financial transaction of any department in the University of Arizona. The visualisation is created in Tableau Public software. In order to visualise the transactions, input data has to be imported in Tableau. This input data has to be filtered prior to the import. A java program filters the transaction data and creates a new file with the relevant transactions. 
 
 #About the Java program
 The Java program "FilterText.java" takes the transaction .csv file as argument. It selects the fields "Account Number", "Account Type", "Object Code", "Object Code Name", "Transaction Date" and "Current month actuals" from the input file and creates a new file, "Results.csv" with the selected fields and corresponding values.
 
-#How to run the Java program?
+#Running the Java program
 1. Run the java program, "FilterText" from terminal using the command `java -cp .:commons-csv-1.1.jar FilterText "path/to/input/file.csv"`. The argument to the program is the path to the input transaction file. The program creates a "Results.csv" file in the same location as the input file.
 
-#Installating Tableau
+#Installing Tableau
 1. Create a profile in Tableau Public, https://public.tableau.com/auth/signup, by filling in the necessary credentials.
 2. Download Tableau Public desktop app from https://public.tableau.com/s/download.
  
-#How to visualise the transactions in Tableau?
+#Visualising the transactions in Tableau
 1. Open Tableau Public app.
 2. Open the "Results.csv" file in Tableau app that was created by the Java program.
 <br /><img width="345" alt="screenshot 2016-05-05 15 57 05" src="https://cloud.githubusercontent.com/assets/8815203/15059790/0f5345a6-12da-11e6-8528-340d6dd50a96.png">
