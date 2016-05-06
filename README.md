@@ -1,7 +1,8 @@
-# README.md
+# About it?
+This is a tutorial on how to visualise the financial transaction of any department in the University of Arizona. The visualisation is created in Tableau Public software. In order to visualise the transactions, input data has to be imported in Tableau. This input data has to be filtered prior to the import. A java program filters the transaction data and creates a new file with the relevant transactions. 
 
 #About the Java program
-The Java program "FilterText.java" takes the transaction .csv file as argument. It selects the fields "Account Number", "Account Type", "Object Code", "Object Code Name", "Transaction Date" and "Current month actuals" from the input file and creates a new file, "Results.csv" with the selected fields.
+The Java program "FilterText.java" takes the transaction .csv file as argument. It selects the fields "Account Number", "Account Type", "Object Code", "Object Code Name", "Transaction Date" and "Current month actuals" from the input file and creates a new file, "Results.csv" with the selected fields and corresponding values.
 
 #How to run the Java program?
 1. Run the java program, "FilterText" from terminal using the command `java -cp .:commons-csv-1.1.jar FilterText "path/to/input/file.csv"`. The argument to the program is the path to the input transaction file. The program creates a "Results.csv" file in the same location as the input file.
@@ -35,11 +36,11 @@ The Java program "FilterText.java" takes the transaction .csv file as argument. 
 <img src ="https://cloud.githubusercontent.com/assets/8815203/15057930/3e9ffc2a-12ce-11e6-8a5d-aa18dd98503e.png">
 13. Drag  ‘Account Number’ from Columns to Rows to compare the account number for each month by object code. 
 <img src="https://cloud.githubusercontent.com/assets/8815203/15057964/69ec0e50-12ce-11e6-9fe8-328932400420.png">
-14. If 'Account Number' is removed from Rows, then the visualization would show the transaction per object code for the corresponding month.
+14. If 'Account Number' is removed from Rows, then the visualization would show the transaction per object code for the corresponding months in a fiscal year.
 15. Save the visualisation to Tableau Public.
 <br /><img width="340" alt="screenshot 2016-05-05 14 48 37" src="https://cloud.githubusercontent.com/assets/8815203/15058359/96b55ed0-12d0-11e6-9362-49159a282232.png">
 
-#Select Visualisation
+#Select Visualisations
 1. A visualisation of the transaction for the entire CS department sorted by object code for the fiscal year 2014-2015 can be viewed here: https://public.tableau.com/profile/srinidhi5986#!/vizhome/TransactionsByDateCode/Sheet1
 2. A visualisation of the transaction for each account number in the CS department sorted by object code for the fiscal year 2014-2015 can be viewed here: https://public.tableau.com/profile/srinidhi5986#!/vizhome/Book1_10796/Sheet1
 3. A visualisation of the transaction that compares two account numbers sorted by object code for the fiscal year 2014-2015 can be viewed here: https://public.tableau.com/profile/srinidhi5986#!/vizhome/CompareAccounts_Year/Sheet1
