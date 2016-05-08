@@ -16,7 +16,7 @@ The Java program "FilterText.java" takes the transaction .csv file as argument. 
 2. Open the "Results.csv" file in Tableau app that was created by the Java program.
 <br /><img width="345" alt="screenshot 2016-05-05 15 57 05" src="https://cloud.githubusercontent.com/assets/8815203/15059790/0f5345a6-12da-11e6-8528-340d6dd50a96.png">
 3. Navigate to Sheet 1 of the csv file.
-<br /><img width="380" alt="screenshot 2016-05-05 16 02 11" src="https://cloud.githubusercontent.com/assets/8815203/15059891/d421ef54-12da-11e6-8a14-054a94657f10.png">
+<br /><img width="200" alt="screenshot 2016-05-05 16 02 11" src="https://cloud.githubusercontent.com/assets/8815203/15059891/d421ef54-12da-11e6-8a14-054a94657f10.png">
 4. Choose 'Bar' from the Marks drop down menu to choose the type of visualization.
 ![1](https://cloud.githubusercontent.com/assets/8815203/15057795/8ba82e94-12cd-11e6-8038-039a53372a69.png)
 5. In order to color each of the bar, right click on 'current month actuals' under Measures.
